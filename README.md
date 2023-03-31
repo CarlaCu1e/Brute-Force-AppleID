@@ -37,5 +37,6 @@ python3 Brute_Force_AppleID_V2.py
 
 --------------------
 By Hacker X | <a class="" href="https://t.me/hackrxx1402">Join My channel for free and paid scripts ☑️</a> | <a class="" href="http://t.me/hackrx1402"> DM Telegram 🔷</a>
--
+
+## Disclaimer: Developer does not support use of script for illegal activities
 
