@@ -62,4 +62,5 @@ Remember to paste the email:pass combo / password list in the same directory as 
 ## Join the Channel or send me a message on telegram for more!
 
 ## Disclaimer: Developer does not support use of script for illegal activities
+### Give the repo a star to support
 
